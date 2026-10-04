@@ -10,7 +10,7 @@ The portfolio focuses on backend engineering, full-stack development, concurrenc
 
 > Add your deployed portfolio URL here after deploying the website.
 
-**Live Demo:** https://borkaryash.github.io/⁠�
+**Live Demo:** https://BorkarYash.github.io/
 
 ---
 
