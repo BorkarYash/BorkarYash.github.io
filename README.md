@@ -1,182 +1,140 @@
-# Yash Borkar — Full Stack Java Developer Portfolio
+👨‍💻 Yash Borkar | Full Stack Java Developer
 
-A modern, responsive personal portfolio website built to showcase my **Full Stack Java development skills, software engineering experience, technical projects, education, certifications, and professional profile**.
+«Computer Engineering graduate focused on Java, Spring Boot, REST APIs, databases, and scalable software development.»
 
-The portfolio focuses on backend engineering, full-stack development, concurrency, database-driven applications, REST APIs, and practical software engineering.
-
----
-
-## 🚀 Live Portfolio
-
-> Add your deployed portfolio URL here after deploying the website.
-
-**Live Demo:** https://BorkarYash.github.io/
+🌐 Portfolio: https://borkaryash.github.io/
+💻 GitHub: https://github.com/BorkarYash
+💼 LinkedIn: https://www.linkedin.com/in/yash-borkar-778829334/
 
 ---
 
-## 👨‍💻 About Me
+🚀 Professional Profile
 
-I am **Yash Borkar**, a final-year Computer Engineering student focused on **Full Stack Java Development, Backend Engineering, and scalable software systems**.
+I am a Full Stack Java Developer with hands-on experience in Java, Spring Boot, REST APIs, relational databases, ReactJS, and backend application development.
 
-My primary technical interests include:
-
-- Java & Spring Boot
-- Backend Development
-- REST API Development
-- Database Design
-- Concurrency & Multi-threading
-- Full Stack Development
-- Software Architecture
-- Secure and reliable application development
+My project work focuses on solving practical engineering problems such as concurrent transactions, database consistency, secure authentication, blockchain-based data integrity, and scalable API design. I enjoy turning requirements into clean, maintainable, and reliable software.
 
 ---
 
-## ✨ Portfolio Features
+💡 Core Technical Strengths
 
-- Modern dark-themed developer portfolio
-- Responsive design for desktop, tablet, and mobile
-- Professional profile section
-- About Me section
-- Technical skills showcase
-- Internship experience timeline
-- Featured software engineering projects
-- Education section
-- Certifications section
-- GitHub and LinkedIn integration
-- Direct Gmail contact functionality
-- Direct phone-call functionality
-- Smooth navigation between sections
-- Animated technology stack marquee
-- Developer-focused visual design
-- Code-inspired hero section
+Area| Technologies / Skills
+Programming| Java, C++, JavaScript, SQL
+Backend| Spring Boot, Spring Data JPA, Hibernate, Node.js, REST APIs
+Frontend| ReactJS, HTML5, CSS3, JavaScript
+Databases| PostgreSQL, MySQL, DBMS
+Engineering| OOP, Multi-threading, Concurrency, ACID Transactions
+Testing| JUnit, Postman
+Tools| Git, GitHub, VS Code, Maven
+Infrastructure| Docker — Basics
+Other| Blockchain, Smart Contracts, Agile, SDLC
 
 ---
 
-## 🛠️ Tech Stack
+🔥 Featured Engineering Projects
 
-### Frontend
+🏦 High-Concurrency Financial Transaction Engine
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
+Java · Spring Boot · PostgreSQL · JPA · JUnit
 
-### Backend & Programming
+Designed a Spring Boot financial transaction API focused on safe concurrent money transfers and transactional consistency.
 
-- Java
-- Spring Boot
-- C++
-- Node.js
-- REST APIs
+Engineering highlights:
 
-### Databases
+- Implemented pessimistic database locking to help prevent race conditions.
+- Applied ACID transactions using Spring Data JPA.
+- Developed REST-based financial transaction APIs.
+- Used JUnit and Postman for API validation and testing.
+- Focused on database integrity and consistency during concurrent operations.
 
-- PostgreSQL
-- MySQL
-- DBMS
-- Spring Data JPA
-- Hibernate
-
-### Engineering Concepts
-
-- Object-Oriented Programming
-- Multi-threading
-- Concurrency Control
-- ACID Transactions
-- Database Design
-- API Development
-- Agile
-- SDLC
-
-### Developer Tools
-
-- Git
-- GitHub
-- Maven
-- Docker
-- Postman
-- JUnit
-- VS Code
+What this demonstrates:
+Backend engineering, database transactions, concurrency control, API development, and practical problem-solving.
 
 ---
 
-## 📂 Portfolio Sections
+🔐 Secure Online Voting System
 
-### 01 — About
+Java · Spring Boot · MySQL · Blockchain · REST APIs
 
-Introduces my background, engineering interests, development focus, and professional profile.
+Developed a blockchain-based electronic voting platform focused on secure digital elections and trustworthy vote processing.
 
-### 02 — Tech Stack
+Engineering highlights:
 
-Highlights my programming languages, backend technologies, frontend technologies, databases, engineering concepts, and developer tools.
+- Implemented voter authentication and eligibility validation.
+- Enforced one-person-one-vote functionality.
+- Designed encrypted vote processing and blockchain transaction storage.
+- Used unique transaction IDs to support vote traceability and auditability.
+- Implemented smart-contract-based validation and automated vote counting.
+- Focused on voter anonymity, data integrity, tamper resistance, and transparency.
 
-### 03 — Experience
+What this demonstrates:
+Secure application development, backend architecture, blockchain concepts, database management, REST APIs, and cybersecurity awareness.
 
-Contains my Full Stack Developer internship experience at:
+---
 
-**NetLeap IT Training & Solutions**
+💼 Internship Experience
 
-The internship involved full-stack development, appointment management, admin dashboard development, responsive interfaces, and backend implementation.
+Full Stack Developer Intern
 
-### 04 — Selected Projects
+NetLeap IT Training & Solutions
+January 2025 — February 2025
 
-#### High-Concurrency Financial Transaction Engine
+- Developed a multi-sector Online Appointment System for professionals including doctors and advocates using the MERN stack and MySQL.
+- Developed an automated Appointment Management module and secure Admin Dashboard.
+- Worked in an Agile environment while developing responsive UI components and backend functionality.
 
-A Spring Boot financial API designed around concurrent money transfers, PostgreSQL locking, and transactional consistency.
+Key exposure: Full Stack Development · REST APIs · Database Integration · Responsive UI · Agile Development
 
-**Technologies:**
+---
 
-`Java` `Spring Boot` `PostgreSQL` `JPA` `JUnit`
+🎓 Education
 
-Key engineering concepts:
+Bachelor of Computer Engineering
 
-- Pessimistic locking
-- Race-condition protection
-- ACID transactions
-- Spring Data JPA
-- REST APIs
-- API testing
+Matoshri College of Engineering, Nashik
+2022 — 2026 | CGPA: 7.16
 
-#### Secure Online Voting System
+HSC
 
-A blockchain-based e-voting platform focused on voter anonymity, vote integrity, tamper resistance, transparent auditing, and secure digital elections.
+Gunjkar College of Science, Khamgaon
+82.83%
 
-**Technologies:**
+SSC
 
-`Java` `Spring Boot` `MySQL` `Blockchain` `REST APIs`
+Rana Lucky Sananda School, Khamgaon
+77.44%
 
-Key features:
+---
 
-- Secure voter authentication
-- Eligibility validation
-- One-person-one-vote enforcement
-- Encrypted vote processing
-- Blockchain transaction storage
-- Unique transaction IDs
-- Smart-contract-based validation
-- Automated vote counting
-- Real-time result verification
+📜 Certifications
 
-### 05 — Education
-
-**Bachelor of Computer Engineering**  
-Matoshri College of Engineering, Nashik  
-2022 — 2026
-
-**CGPA:** 7.16
-
-### 06 — Certifications
-
-- Full Stack Java Course
+- Full Stack Java Course — Course Completion Certificate
 - Employability Skill Development — RPG Foundation (Zensar)
 - Internship Completion — NetLeap IT Training & Solutions
 
 ---
 
-## 📁 Project Structure
+🌐 Portfolio Features
 
-```text
-Yash-Borkar-Portfolio/
+This portfolio demonstrates my ability to build and maintain a professional web presence with:
+
+- Responsive design
+- Professional developer profile
+- Technical skills showcase
+- Project case studies
+- Internship experience
+- Education and certifications
+- Downloadable resume
+- Direct phone and email contact
+- GitHub and LinkedIn integration
+- Custom YB developer favicon/logo
+- GitHub Pages deployment
+
+---
+
+🏗️ Project Structure
+
+BorkarYash.github.io/
 │
 ├── index.html
 ├── styles.css
@@ -184,105 +142,82 @@ Yash-Borkar-Portfolio/
 ├── README.md
 │
 └── assets/
-    └── Yash Borkar.png
-```
-
-### File Description
-
-| File | Purpose |
-|---|---|
-| `index.html` | Main portfolio structure and content |
-| `styles.css` | Complete website styling, responsive layout and animations |
-| `script.js` | Interactive functionality |
-| `assets/Yash Borkar.png` | Professional profile image |
-| `README.md` | Project documentation |
+    ├── YB-logo.png
+    ├── Yash Borkar.png
+    └── Yash_Borkar_Resume.pdf
 
 ---
 
-## ⚙️ Run Locally
+🚀 Deployment
 
-No backend server is required to run the portfolio.
+The portfolio is deployed using GitHub Pages.
 
-### 1. Clone the repository
+Live:
+https://borkaryash.github.io/
 
-```bash
-git clone https://github.com/BorkarYash/Yash-Borkar-Portfolio.git
-```
+Branch: main
+Directory: / (root)
 
-### 2. Open the project
-
-```bash
-cd Yash-Borkar-Portfolio
-```
-
-### 3. Run the website
-
-Simply open:
-
-```text
-index.html
-```
-
-in your browser.
-
-For development, you can also use **VS Code Live Server**.
+Updates pushed to the "main" branch are deployed through GitHub Pages.
 
 ---
 
-## 🔗 Connect With Me
+🔄 Development Workflow
 
-**GitHub:**  
-https://github.com/BorkarYash
+Develop
+   ↓
+Test Locally
+   ↓
+Stage Changes
+   ↓
+Commit
+   ↓
+Push to GitHub
+   ↓
+GitHub Pages
+   ↓
+Live Portfolio
 
-**LinkedIn:**  
-https://www.linkedin.com/in/yash-borkar-778829334/
-
-**Email:**  
-borkaryash18@gmail.com
-
-**Phone:**  
-+91 7841005695
-
----
-
-## 🎯 Career Focus
-
-I am interested in opportunities related to:
-
-- Full Stack Java Development
-- Backend Development
-- Java / Spring Boot Development
-- Software Engineering
-- REST API Development
-- Database-driven Applications
+git add .
+git commit -m "Update portfolio"
+git push
 
 ---
 
-## 📌 Future Improvements
+🎯 Career Focus
 
-Planned improvements for future versions include:
+I'm actively interested in opportunities in:
 
-- Resume download functionality
-- Live project demonstrations
-- Detailed project case studies
-- GitHub project integration
-- Additional project screenshots
-- Improved accessibility
-- SEO optimization
-- Custom domain deployment
+Full Stack Java Development · Backend Development · Software Engineering · REST API Development · Database-Driven Applications
+
+I'm particularly interested in building scalable backend systems, reliable APIs, secure applications, and production-oriented software solutions.
 
 ---
 
-## 📄 License
+📫 Let's Connect
 
-This portfolio is a personal project created by **Yash Borkar**.
+Yash Borkar
 
-The design, personal information, profile image, and portfolio content are intended for personal professional use.
+📍 Navi Mumbai, India
+📧 borkaryash18@gmail.com
+☎ +91 7841005695
+
+🌐 Portfolio: https://borkaryash.github.io/
+💻 GitHub: https://github.com/BorkarYash
+💼 LinkedIn: https://www.linkedin.com/in/yash-borkar-778829334/
 
 ---
 
-## ⭐ If You Like This Portfolio
+⭐ Why Explore This Repository?
 
-If you find the project useful or interesting, feel free to visit my GitHub profile and connect with me.
+This repository represents more than a static portfolio — it demonstrates my approach to software engineering, Git-based development, project documentation, deployment, and continuous improvement.
 
-**Built with Java mindset, engineering principles, and a passion for building reliable software.**
+Feel free to explore the projects, technologies, and implementation details.
+
+---
+
+👨‍💻 Yash Borkar
+
+Full Stack Java Developer
+
+«Building reliable software with a systems mindset.»
